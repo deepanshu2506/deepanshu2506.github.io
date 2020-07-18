@@ -53,14 +53,17 @@
 }
 
 .repo-name {
-  white-space: nowrap;
-  text-overflow: ellipsis;
+  /* white-space: nowrap; */
+  /* text-overflow: ; */
+  /* word-wrap: break-word; */
   color: rgb(36, 41, 46);
   margin-bottom: 0.75rem;
   font-size: 25px;
   font-weight: 700;
+  width: 100%;
+  /* background-color: red; */
   letter-spacing: -0.5px;
-  overflow: hidden;
+  /* overflow: hidden; */
   margin: 0px;
 }
 
