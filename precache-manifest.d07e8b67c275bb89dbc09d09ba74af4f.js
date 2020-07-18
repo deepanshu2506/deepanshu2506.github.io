@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31d7371d36e47acb18514d60890dd89e",
+    "revision": "5d03ea79756e0968a0bb4eb8d7780833",
     "url": "/deepanshu2506.github.io/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deepanshu2506.github.io/static/css/3.48a93ee6.chunk.css"
   },
   {
-    "revision": "ca219c626c380f115c83",
-    "url": "/deepanshu2506.github.io/static/css/4.01c87591.chunk.css"
+    "revision": "2ae1b2a0bc4ff5bb5d95",
+    "url": "/deepanshu2506.github.io/static/css/4.f64d6641.chunk.css"
   },
   {
-    "revision": "fdc1d821100d91696a25",
-    "url": "/deepanshu2506.github.io/static/css/main.1b41f436.chunk.css"
+    "revision": "86cb848b4961a0cc3d93",
+    "url": "/deepanshu2506.github.io/static/css/main.c6c20c10.chunk.css"
   },
   {
     "revision": "b346a377dd0ee65dd7b8",
@@ -24,16 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deepanshu2506.github.io/static/js/3.279cb3b2.chunk.js"
   },
   {
-    "revision": "ca219c626c380f115c83",
+    "revision": "2ae1b2a0bc4ff5bb5d95",
     "url": "/deepanshu2506.github.io/static/js/4.f5af30b9.chunk.js"
   },
   {
-    "revision": "fdc1d821100d91696a25",
-    "url": "/deepanshu2506.github.io/static/js/main.a5add595.chunk.js"
+    "revision": "86cb848b4961a0cc3d93",
+    "url": "/deepanshu2506.github.io/static/js/main.cff02121.chunk.js"
   },
   {
-    "revision": "860cd1d48eeaf773a3d5",
-    "url": "/deepanshu2506.github.io/static/js/runtime-main.b5cb2bab.js"
+    "revision": "92639fbc9eecfc46c34d",
+    "url": "/deepanshu2506.github.io/static/js/runtime-main.3df63bb6.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",

@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/deepanshu2506.github.io/static/css/main.1b41f436.chunk.css",
-    "main.js": "/deepanshu2506.github.io/static/js/main.a5add595.chunk.js",
-    "main.js.map": "/deepanshu2506.github.io/static/js/main.a5add595.chunk.js.map",
-    "runtime-main.js": "/deepanshu2506.github.io/static/js/runtime-main.b5cb2bab.js",
-    "runtime-main.js.map": "/deepanshu2506.github.io/static/js/runtime-main.b5cb2bab.js.map",
+    "main.css": "/deepanshu2506.github.io/static/css/main.c6c20c10.chunk.css",
+    "main.js": "/deepanshu2506.github.io/static/js/main.cff02121.chunk.js",
+    "main.js.map": "/deepanshu2506.github.io/static/js/main.cff02121.chunk.js.map",
+    "runtime-main.js": "/deepanshu2506.github.io/static/js/runtime-main.3df63bb6.js",
+    "runtime-main.js.map": "/deepanshu2506.github.io/static/js/runtime-main.3df63bb6.js.map",
     "static/js/2.c91572f3.chunk.js": "/deepanshu2506.github.io/static/js/2.c91572f3.chunk.js",
     "static/js/2.c91572f3.chunk.js.map": "/deepanshu2506.github.io/static/js/2.c91572f3.chunk.js.map",
     "static/css/3.48a93ee6.chunk.css": "/deepanshu2506.github.io/static/css/3.48a93ee6.chunk.css",
     "static/js/3.279cb3b2.chunk.js": "/deepanshu2506.github.io/static/js/3.279cb3b2.chunk.js",
     "static/js/3.279cb3b2.chunk.js.map": "/deepanshu2506.github.io/static/js/3.279cb3b2.chunk.js.map",
-    "static/css/4.01c87591.chunk.css": "/deepanshu2506.github.io/static/css/4.01c87591.chunk.css",
+    "static/css/4.f64d6641.chunk.css": "/deepanshu2506.github.io/static/css/4.f64d6641.chunk.css",
     "static/js/4.f5af30b9.chunk.js": "/deepanshu2506.github.io/static/js/4.f5af30b9.chunk.js",
     "static/js/4.f5af30b9.chunk.js.map": "/deepanshu2506.github.io/static/js/4.f5af30b9.chunk.js.map",
     "index.html": "/deepanshu2506.github.io/index.html",
-    "precache-manifest.91cbf04ef00ded2853f3f25977cec4b2.js": "/deepanshu2506.github.io/precache-manifest.91cbf04ef00ded2853f3f25977cec4b2.js",
+    "precache-manifest.d07e8b67c275bb89dbc09d09ba74af4f.js": "/deepanshu2506.github.io/precache-manifest.d07e8b67c275bb89dbc09d09ba74af4f.js",
     "service-worker.js": "/deepanshu2506.github.io/service-worker.js",
     "static/css/3.48a93ee6.chunk.css.map": "/deepanshu2506.github.io/static/css/3.48a93ee6.chunk.css.map",
-    "static/css/4.01c87591.chunk.css.map": "/deepanshu2506.github.io/static/css/4.01c87591.chunk.css.map",
-    "static/css/main.1b41f436.chunk.css.map": "/deepanshu2506.github.io/static/css/main.1b41f436.chunk.css.map",
+    "static/css/4.f64d6641.chunk.css.map": "/deepanshu2506.github.io/static/css/4.f64d6641.chunk.css.map",
+    "static/css/main.c6c20c10.chunk.css.map": "/deepanshu2506.github.io/static/css/main.c6c20c10.chunk.css.map",
     "static/media/index.css": "/deepanshu2506.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/billme.jpg": "/deepanshu2506.github.io/static/media/billme.bfc2772f.jpg",
     "static/media/codeInLogo.webp": "/deepanshu2506.github.io/static/media/codeInLogo.47a7a717.webp",
@@ -35,9 +35,9 @@
     "static/media/TalkCard.css": "/deepanshu2506.github.io/static/media/talksCardBack.de3da806.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5cb2bab.js",
+    "static/js/runtime-main.3df63bb6.js",
     "static/js/2.c91572f3.chunk.js",
-    "static/css/main.1b41f436.chunk.css",
-    "static/js/main.a5add595.chunk.js"
+    "static/css/main.c6c20c10.chunk.css",
+    "static/js/main.cff02121.chunk.js"
   ]
 }
