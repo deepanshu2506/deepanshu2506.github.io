@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/deepanshu2506.github.io/static/css/main.1b41f436.chunk.css",
+    "main.js": "/deepanshu2506.github.io/static/js/main.a5add595.chunk.js",
+    "main.js.map": "/deepanshu2506.github.io/static/js/main.a5add595.chunk.js.map",
+    "runtime-main.js": "/deepanshu2506.github.io/static/js/runtime-main.b5cb2bab.js",
+    "runtime-main.js.map": "/deepanshu2506.github.io/static/js/runtime-main.b5cb2bab.js.map",
+    "static/js/2.c91572f3.chunk.js": "/deepanshu2506.github.io/static/js/2.c91572f3.chunk.js",
+    "static/js/2.c91572f3.chunk.js.map": "/deepanshu2506.github.io/static/js/2.c91572f3.chunk.js.map",
+    "static/css/3.48a93ee6.chunk.css": "/deepanshu2506.github.io/static/css/3.48a93ee6.chunk.css",
+    "static/js/3.279cb3b2.chunk.js": "/deepanshu2506.github.io/static/js/3.279cb3b2.chunk.js",
+    "static/js/3.279cb3b2.chunk.js.map": "/deepanshu2506.github.io/static/js/3.279cb3b2.chunk.js.map",
+    "static/css/4.01c87591.chunk.css": "/deepanshu2506.github.io/static/css/4.01c87591.chunk.css",
+    "static/js/4.f5af30b9.chunk.js": "/deepanshu2506.github.io/static/js/4.f5af30b9.chunk.js",
+    "static/js/4.f5af30b9.chunk.js.map": "/deepanshu2506.github.io/static/js/4.f5af30b9.chunk.js.map",
+    "index.html": "/deepanshu2506.github.io/index.html",
+    "precache-manifest.91cbf04ef00ded2853f3f25977cec4b2.js": "/deepanshu2506.github.io/precache-manifest.91cbf04ef00ded2853f3f25977cec4b2.js",
+    "service-worker.js": "/deepanshu2506.github.io/service-worker.js",
+    "static/css/3.48a93ee6.chunk.css.map": "/deepanshu2506.github.io/static/css/3.48a93ee6.chunk.css.map",
+    "static/css/4.01c87591.chunk.css.map": "/deepanshu2506.github.io/static/css/4.01c87591.chunk.css.map",
+    "static/css/main.1b41f436.chunk.css.map": "/deepanshu2506.github.io/static/css/main.1b41f436.chunk.css.map",
+    "static/media/index.css": "/deepanshu2506.github.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/billme.jpg": "/deepanshu2506.github.io/static/media/billme.bfc2772f.jpg",
+    "static/media/codeInLogo.webp": "/deepanshu2506.github.io/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMail.webp": "/deepanshu2506.github.io/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/deepanshu2506.github.io/static/media/developerActivity.59389695.svg",
+    "static/media/googleAssistantLogo.webp": "/deepanshu2506.github.io/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/kjsce.jpg": "/deepanshu2506.github.io/static/media/kjsce.b2670903.jpg",
+    "static/media/logo.svg": "/deepanshu2506.github.io/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/deepanshu2506.github.io/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/deepanshu2506.github.io/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/pwaLogo.webp": "/deepanshu2506.github.io/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/saayaHealthLogo.webp": "/deepanshu2506.github.io/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/deepanshu2506.github.io/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/deepanshu2506.github.io/static/media/talksCardBack.de3da806.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5cb2bab.js",
+    "static/js/2.c91572f3.chunk.js",
+    "static/css/main.1b41f436.chunk.css",
+    "static/js/main.a5add595.chunk.js"
+  ]
+}
