@@ -22,7 +22,6 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/deepanshu-vangani/",
   gmail: "vanganideepanshu@gmail.com",
   facebook: "https://www.facebook.com/infomaniac.dv",
-  // Instagram and Twitter are also supported in the links!
 };
 
 // Your Skills Section
@@ -122,11 +121,11 @@ const workExperiences = {
       company: "BillMe",
       companylogo: require("./assets/images/billme.jpg"),
       date: "November 2019 - January 2020",
-      desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Made a generalized parser to retrieve important information from receipts",
+        "Designed an environment for creating and executing automated tests",
+        "fixed bugs on the internal admin portal and partner portals",
       ],
     },
     {
@@ -134,24 +133,34 @@ const workExperiences = {
       company: "KJSCE SDC",
       companylogo: require("./assets/images/kjsce.jpg"),
       date: "December 2019 - March 2020",
-      desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Converstional UI Chatbot",
+      descBullets: [
+        "Designed a conversational UI chatbot to facilitate the users regarding the admission process of the college",
+        "Used machine learning models to improve the traditional chatbot experience",
+      ],
     },
     {
       role: "Mobile App Developer",
       company: "H&M designs Inc",
       companylogo: require("./assets/images/hnm.png"),
       date: "April 2020-June 2020",
-      desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "H&M jewellery App",
+      descBullets: [
+        "Developed an e commerce application for thier jewellery business from end to end",
+        "Worked on technologies such as react-native, node.js. The application will be deployed later this year.",
+      ],
     },
     {
       role: "Web application Developer",
       company: "KJSCE SDC",
       companylogo: require("./assets/images/kjsce.jpg"),
       date: "June 2020- Ongoing",
-      desc:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Audit-elective course allocation Portal",
+      descBullets: [
+        "played an instrumental role in developing and deploying the allocation system on the learning management system of the college",
+        "Developed allocation strategies",
+        "used PHP and AJAX to create a reliable and rich web application",
+      ],
     },
   ],
 };
