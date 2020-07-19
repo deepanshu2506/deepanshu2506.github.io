@@ -4,6 +4,14 @@
   grid-template-columns: repeat(3, minmax(290px, 1fr));
   gap: 1rem 1rem;
 }
+@media only screen and (max-width: 600px) {
+  .experience-cards-div {
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 1rem 1rem;
+  }
+}
 
 .experience-heading {
   font-size: 56px;

@@ -5,6 +5,7 @@ import "./Project.css";
 import Button from "../../components/button/Button";
 import Loading from "../loading/Loading";
 import { openSource, socialMediaLinks } from "../../portfolio";
+import { Fade } from "react-reveal";
 
 export default function Projects() {
   const GithubRepoCard = lazy(() =>
@@ -13,6 +14,7 @@ export default function Projects() {
   const FailedLoading = () => null;
   const renderLoader = () => <Loading />;
   const [repo, setrepo] = useState([]);
+  const [stats, setStats] = useState({});
 
   useEffect(() => {
     getRepoData();
@@ -70,11 +72,13 @@ export default function Projects() {
       .then((result) => {
         console.log(result);
         setrepoFunction(result.data.user.topRepositories.edges);
+        setStats(result.data.user.contributionsCollection);
         console.log(result);
       })
       .catch(function (error) {
         console.log(error);
         setrepoFunction("Error");
+        setStats("Error");
         console.log(
           "Because of this Error, nothing is shown in place of Projects section. Projects section not configured"
         );
@@ -85,6 +89,7 @@ export default function Projects() {
     setrepo(array);
   }
   if (!(typeof repo === "string" || repo instanceof String)) {
+    console.log(stats);
     return (
       <Suspense fallback={renderLoader()}>
         <div className="main" id="opensource">
@@ -100,6 +105,23 @@ export default function Projects() {
             href={socialMediaLinks.github}
             newTab={true}
           />
+          <h1 className="contribution-stats">Contribution Statistics</h1>
+          <Fade bottom duration={1000} distance="20px">
+            <div className="contribution-stats-cards-main">
+              <div className="contribution-stats-card-div">
+                <h1>{stats.totalCommitContributions}+</h1>
+                <h4>Commits</h4>
+              </div>
+              <div className="contribution-stats-card-div">
+                <h1>{stats.totalPullRequestContributions}+</h1>
+                <h4>Pull Requests</h4>
+              </div>
+              <div className="contribution-stats-card-div">
+                <h1>{stats.totalPullRequestReviewContributions}+</h1>
+                <h4>PR Reviews</h4>
+              </div>
+            </div>
+          </Fade>
         </div>
       </Suspense>
     );

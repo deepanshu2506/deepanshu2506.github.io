@@ -3,8 +3,16 @@
   font-weight: 400;
   line-height: normal;
 }
+body {
+  background-color: #fafafa;
+}
+.contribution-stats {
+  font-size: 52px;
+  font-weight: 400;
+  line-height: normal;
+}
 
-.startup-project-text img{
+.startup-project-text img {
   max-width: 100%;
   height: auto;
 }
@@ -14,7 +22,28 @@
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 1rem 1rem;
 }
-
+.contribution-stats-cards-main {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 1rem 1rem;
+}
+.contribution-stats-card-div {
+  color: rgb(88, 96, 105);
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
+  padding: 2rem;
+  /* min-height: 10rem; */
+  border: 1px solid #eee;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.contribution-stats-card-div:hover {
+  box-shadow: rgba(0, 0, 0, 0.2) 5px 20px 30px -10px;
+}
 /* Media Query */
 @media (max-width: 1380px) {
   .project-title {
@@ -26,7 +55,7 @@
     font-size: 30px;
     text-align: center;
   }
-  .repo-cards-div-main{
+  .repo-cards-div-main {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   }
 }
